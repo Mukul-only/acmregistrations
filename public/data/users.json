@@ -1,0 +1,722 @@
+[
+    {
+        "_id": {
+            "$oid": "68f13124eb6ba8781c15627d"
+        },
+        "username": "Chetna Dua",
+        "dept": "Ca",
+        "branch": "Mca",
+        "mobno": "9896621288",
+        "rollNumber": "205124026",
+        "email": "chetnadua36@gmail.com",
+        "password": "$2b$10$is0VNOxZB5bfk6TNCuddMOAWZePCAebk5zSQ5xdnY9/QbDE.rCZH2",
+        "isAdmin": false,
+        "createdAt": {
+            "$date": "2025-10-16T17:53:40.349Z"
+        },
+        "updatedAt": {
+            "$date": "2025-10-16T17:53:40.349Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "68f1319ceb6ba8781c156292"
+        },
+        "username": "Divyanshi Rajput",
+        "dept": "Computer Applications",
+        "branch": "",
+        "mobno": "6387247906",
+        "rollNumber": "205124030",
+        "email": "divyanshirajput02003@gmail.com",
+        "password": "$2b$10$WptZIqhuiNeVqWirW4FeKerGuqtqQ5NPSmfyFc7wTvjN6sZuTBMiW",
+        "isAdmin": false,
+        "createdAt": {
+            "$date": "2025-10-16T17:55:40.9Z"
+        },
+        "updatedAt": {
+            "$date": "2025-10-16T17:55:40.9Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "68f131a0eb6ba8781c156294"
+        },
+        "username": "Vipul Waskel",
+        "dept": "Computer Applications",
+        "branch": "",
+        "mobno": "7067999604",
+        "rollNumber": "205124110",
+        "email": "vipulwaskel934@gmail.com",
+        "password": "$2b$10$XFNkoeJ03KaiI84XrRtxTeHUTjMDeWJJiB8asFbIdnIZwGwHh3JLy",
+        "isAdmin": false,
+        "createdAt": {
+            "$date": "2025-10-16T17:55:44.845Z"
+        },
+        "updatedAt": {
+            "$date": "2025-10-16T17:55:44.845Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "68f131a9eb6ba8781c15629c"
+        },
+        "username": "Ashutosh Shukla",
+        "dept": "CA",
+        "branch": "",
+        "mobno": "7697990750",
+        "rollNumber": "205124021",
+        "email": "ashuushukla47@gmail.com",
+        "password": "$2b$10$BDRG/kJCds9ur1QV3wK1r.p.t7NhS18t2hckRRQ3ZD6BG4CRRUlBW",
+        "isAdmin": false,
+        "createdAt": {
+            "$date": "2025-10-16T17:55:53.6Z"
+        },
+        "updatedAt": {
+            "$date": "2025-10-16T17:55:53.6Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "68f133a4eb6ba8781c1562d3"
+        },
+        "username": "Prachi",
+        "dept": "Computer Applications",
+        "branch": "Master of Computer Applications",
+        "mobno": "8077953611",
+        "rollNumber": "205124065",
+        "email": "prachi639682@gmail.com",
+        "password": "$2b$10$irsQTGCqSiGSpvt7zp8dpu3xZNJcyQf8SmDrZxdFCMSfX.h4ez4ca",
+        "isAdmin": false,
+        "createdAt": {
+            "$date": "2025-10-16T18:04:20.21Z"
+        },
+        "updatedAt": {
+            "$date": "2025-10-16T18:04:20.21Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "68f13584eb6ba8781c1562e0"
+        },
+        "username": "Keshav PAl ",
+        "dept": "Computer Applications",
+        "branch": "AI",
+        "mobno": "7723922559",
+        "rollNumber": "205124044",
+        "email": "keshavpalnitt@gmail.com",
+        "password": "$2b$10$UTuw4GWAKb/xxXkP1o90ZOfZycUC8VPzt3jza6uvRtsMr9GY0la9W",
+        "isAdmin": false,
+        "createdAt": {
+            "$date": "2025-10-16T18:12:20.361Z"
+        },
+        "updatedAt": {
+            "$date": "2025-10-16T18:12:20.361Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "68f1377ceb6ba8781c156306"
+        },
+        "username": "Sohaib iqbal",
+        "dept": "Computer Applications ",
+        "branch": "Master of Computer Applications mputer ",
+        "mobno": "9622546463",
+        "rollNumber": "205124093",
+        "email": "sohaibiqbal256@gmail.com",
+        "password": "$2b$10$ZOhNe/xxHWT8Yghk24qOZezUpLNudZhX0T1OFpUQwts3XLJ3esJvS",
+        "isAdmin": false,
+        "createdAt": {
+            "$date": "2025-10-16T18:20:44.463Z"
+        },
+        "updatedAt": {
+            "$date": "2025-10-16T18:20:44.463Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "68f13c42eb6ba8781c156315"
+        },
+        "username": "Pradeep Yadav",
+        "dept": "Computer Applications",
+        "branch": "",
+        "mobno": "7240254479",
+        "rollNumber": "205124066",
+        "email": "pradeepapex07@gmail.com",
+        "password": "$2b$10$WN00AyYjR5W4hzvifff.pOZV/LpqANOjlbdRLq9W8Cjiq7bfDubTu",
+        "isAdmin": false,
+        "createdAt": {
+            "$date": "2025-10-16T18:41:06.001Z"
+        },
+        "updatedAt": {
+            "$date": "2025-10-16T18:41:06.001Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "68f13ccaeb6ba8781c15632f"
+        },
+        "username": "Lokendra patidar",
+        "dept": "Computer Applications",
+        "branch": "",
+        "mobno": "9522970648",
+        "rollNumber": "205124049",
+        "email": "lokinitt7@gmail.com",
+        "password": "$2b$10$PHv5MoVFqV7fpvNLwWGByuUJEkJln62i3ON0SW1z1YVThv0ww87yy",
+        "isAdmin": false,
+        "createdAt": {
+            "$date": "2025-10-16T18:43:22.533Z"
+        },
+        "updatedAt": {
+            "$date": "2025-10-16T18:43:22.533Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "68f174afeb6ba8781c15634b"
+        },
+        "username": "Hari Kumar A",
+        "dept": "CSE",
+        "branch": "",
+        "mobno": "8525059820",
+        "rollNumber": "106122006",
+        "email": "harikumar3868@gmail.com",
+        "password": "$2b$10$wgS4RVFOfpn3xx3VZpmNdufXDnxrViE63ESray1sxEk70u7Mbh4kG",
+        "isAdmin": false,
+        "createdAt": {
+            "$date": "2025-10-16T22:41:51.04Z"
+        },
+        "updatedAt": {
+            "$date": "2025-10-16T22:41:51.04Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "68f1dcbbeb6ba8781c156371"
+        },
+        "username": "Muhammad Alee",
+        "dept": "Mechanical",
+        "branch": "",
+        "mobno": "9361039046",
+        "rollNumber": "111124081",
+        "email": "muhammadalee2006@gmail.com",
+        "password": "$2b$10$v4lEZyd4m7q/eR8uJ5GfJ.Je4tTy2xExasRE2o4fJ0lY1Oo/Mfoly",
+        "isAdmin": false,
+        "createdAt": {
+            "$date": "2025-10-17T06:05:47.514Z"
+        },
+        "updatedAt": {
+            "$date": "2025-10-17T06:05:47.514Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "68f1dd0eeb6ba8781c156378"
+        },
+        "username": "Vickram T G",
+        "dept": "Computer Science and Engineering",
+        "branch": "",
+        "mobno": "9042522899",
+        "rollNumber": "106124135",
+        "email": "gopinathvickram@gmail.com",
+        "password": "$2b$10$vASN6vrmwGwLTu2cY.ckDO0LNKMg2ajESQWQ45sirkl5Ftscp1wU6",
+        "isAdmin": false,
+        "createdAt": {
+            "$date": "2025-10-17T06:07:10.574Z"
+        },
+        "updatedAt": {
+            "$date": "2025-10-17T06:07:10.574Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "68f1e510eb6ba8781c156393"
+        },
+        "username": "Abdus Samad",
+        "dept": "Production",
+        "branch": "",
+        "mobno": "9236413929",
+        "rollNumber": "114124004",
+        "email": "abdussamad97261@gmail.com",
+        "password": "$2b$10$/XdAzf3D5iTi1J6kIl9OxuD5djAk8BWwAHLLK/A2k44p2qSJZwut6",
+        "isAdmin": false,
+        "createdAt": {
+            "$date": "2025-10-17T06:41:20.839Z"
+        },
+        "updatedAt": {
+            "$date": "2025-10-17T06:41:20.839Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "68f1e699eb6ba8781c1563a8"
+        },
+        "username": "AKILESH S K",
+        "dept": "MME",
+        "branch": "",
+        "mobno": "7395945939",
+        "rollNumber": "112122060",
+        "email": "skakilesh2004@gmail.com",
+        "password": "$2b$10$mZBfGyXB03XrTIM8zd27EeHbhrlb8dqgtxKFmWUXjuDwVoSYLoh/S",
+        "isAdmin": false,
+        "createdAt": {
+            "$date": "2025-10-17T06:47:53.834Z"
+        },
+        "updatedAt": {
+            "$date": "2025-10-17T06:47:53.834Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "68f1e70eeb6ba8781c1563ae"
+        },
+        "username": "Lithin Tharak Sanjay Surisetty",
+        "dept": "MME",
+        "branch": "",
+        "mobno": "6380096044",
+        "rollNumber": "112122065",
+        "email": "ltsanjay494@gmail.com",
+        "password": "$2b$10$F1QY8rlWiTMmxGa1P5Bate0n95mKaEULKaUtV8/bubjyPebAYxnO.",
+        "isAdmin": false,
+        "createdAt": {
+            "$date": "2025-10-17T06:49:50.889Z"
+        },
+        "updatedAt": {
+            "$date": "2025-10-17T06:49:50.889Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "68f1eacdeb6ba8781c1563c5"
+        },
+        "username": "Kakani Prema Akshay ",
+        "dept": "Instrumentation and control engineering ",
+        "branch": "",
+        "mobno": "9014167263",
+        "rollNumber": "110124049",
+        "email": "akshaykakani31@gmail.com",
+        "password": "$2b$10$hCUxx5F4Zd9jcuF0DwNQPOv52tZ44WUfvlZWbTL1L4Jy03OeBhZZa",
+        "isAdmin": false,
+        "createdAt": {
+            "$date": "2025-10-17T07:05:49.996Z"
+        },
+        "updatedAt": {
+            "$date": "2025-10-17T07:05:49.996Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "68f1ee32eb6ba8781c1563d2"
+        },
+        "username": "KUDIKYALA SHIRISHA",
+        "dept": "COMPUTER APPLICATIONS",
+        "branch": "COMPUTER SCIENCE",
+        "mobno": "9494522822",
+        "rollNumber": "205325014",
+        "email": "Kudikyalashirisha2004@gmail.com",
+        "password": "$2b$10$eme3orlBA1NMZv712upT5e2VyahYT1zVfkAJqqaUsfKuZDZnkxQQ2",
+        "isAdmin": false,
+        "createdAt": {
+            "$date": "2025-10-17T07:20:18.349Z"
+        },
+        "updatedAt": {
+            "$date": "2025-10-17T07:20:18.349Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "68f1ee44eb6ba8781c1563d7"
+        },
+        "username": "Kishan Challa",
+        "dept": "ECE",
+        "branch": "",
+        "mobno": "7330849317",
+        "rollNumber": "108122026",
+        "email": "kishan18.challa@gmail.com",
+        "password": "$2b$10$wLuVh.j.Iyc2dHjvjca/I.AkBGqTWIaYH.3nCBP9si8ml2ml/8W7.",
+        "isAdmin": false,
+        "createdAt": {
+            "$date": "2025-10-17T07:20:36.089Z"
+        },
+        "updatedAt": {
+            "$date": "2025-10-17T07:20:36.089Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "68f1f1a8eb6ba8781c1563eb"
+        },
+        "username": "heath_ledger",
+        "dept": "Computer science ",
+        "branch": "Cse",
+        "mobno": "9363233485",
+        "rollNumber": "106122044",
+        "email": "do0u0bleed@gmail.com",
+        "password": "$2b$10$sEaEoD.zLefKbna2W3FMru6OUvE3t8XGwsMjtMgYMw8MvyzbQGozu",
+        "isAdmin": false,
+        "createdAt": {
+            "$date": "2025-10-17T07:35:04.828Z"
+        },
+        "updatedAt": {
+            "$date": "2025-10-17T07:35:04.828Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "68f1ff81eb6ba8781c1563f5"
+        },
+        "username": "Vishesh Sharma",
+        "dept": "Computer Applications ",
+        "branch": "CA",
+        "mobno": "8949624295",
+        "rollNumber": "205124111",
+        "email": "vishesh059@gmail.com",
+        "password": "$2b$10$bTtlAPk2JbKLfT.DOWI3AOkRh.ZrIft18G9JboCj0m4kLn5boBl12",
+        "isAdmin": false,
+        "createdAt": {
+            "$date": "2025-10-17T08:34:09.271Z"
+        },
+        "updatedAt": {
+            "$date": "2025-10-17T08:34:09.271Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "68f21c75eb6ba8781c156405"
+        },
+        "username": "Sachin S A",
+        "dept": "Cse",
+        "branch": "",
+        "mobno": "9500526824",
+        "rollNumber": "106124107",
+        "email": "sachinsa2468@gmail.com",
+        "password": "$2b$10$86ZqGH9/QhMFTLsYsFzwkeL6r/hYTkK18QqM7F9hJCQYl2XwrDD7K",
+        "isAdmin": false,
+        "createdAt": {
+            "$date": "2025-10-17T10:37:41.747Z"
+        },
+        "updatedAt": {
+            "$date": "2025-10-17T10:37:41.747Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "68f223e3eb6ba8781c156410"
+        },
+        "username": "Utkarsh Pandey ",
+        "dept": "Computer Applications ",
+        "branch": "",
+        "mobno": "7800095295",
+        "rollNumber": "205124105",
+        "email": "pandey.utkarsh1112@gmail.com",
+        "password": "$2b$10$lywmmQNWTwgvgmtFVUreOeBmW86cUU/yfOOidb2YnnPu9uhdLxvIS",
+        "isAdmin": false,
+        "createdAt": {
+            "$date": "2025-10-17T11:09:23.511Z"
+        },
+        "updatedAt": {
+            "$date": "2025-10-17T11:09:23.511Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "68f22861eb6ba8781c156424"
+        },
+        "username": "R.P Samyuktha ",
+        "dept": "MBA",
+        "branch": "",
+        "mobno": "9789366099",
+        "rollNumber": "215125068",
+        "email": "215125068@nitt.edu",
+        "password": "$2b$10$dq68HTqYlKnippod2yJGqe2vEQwoIWepQwRl/G01T/zLfrQKBBxca",
+        "isAdmin": false,
+        "createdAt": {
+            "$date": "2025-10-17T11:28:33.926Z"
+        },
+        "updatedAt": {
+            "$date": "2025-10-17T11:28:33.926Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "68f2310beb6ba8781c156430"
+        },
+        "username": "Vivek Banduni",
+        "dept": "CA",
+        "branch": "",
+        "mobno": "8700095839",
+        "rollNumber": "205124112",
+        "email": "vivekbanduni3@gmail.com",
+        "password": "$2b$10$CAOzuekEpFydq67I4bGWqOIm4F5SXjbyuDFUXPMDu/GDs7JXstEZO",
+        "isAdmin": false,
+        "createdAt": {
+            "$date": "2025-10-17T12:05:31.868Z"
+        },
+        "updatedAt": {
+            "$date": "2025-10-17T12:05:31.868Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "68f23255eb6ba8781c156448"
+        },
+        "username": "Rohit Panwar",
+        "dept": "Computer Application",
+        "branch": "Software Engineering",
+        "mobno": "9644486233",
+        "rollNumber": "205123091",
+        "email": "rohitpanwar1479@gmail.com",
+        "password": "$2b$10$QLrGqyjpVyqtjHLkvymi6.m0CSLvpGstX52o.G/tPWgR0lTD4HONi",
+        "isAdmin": false,
+        "createdAt": {
+            "$date": "2025-10-17T12:11:01.705Z"
+        },
+        "updatedAt": {
+            "$date": "2025-10-17T12:11:01.705Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "68f23383eb6ba8781c156456"
+        },
+        "username": "Duggi Shanmukha Vihar",
+        "dept": "Computer Science and Engineering",
+        "branch": "Computer Science and Engineering",
+        "mobno": "9100152646",
+        "rollNumber": "106123036",
+        "email": "suji20021@gmail.com",
+        "password": "$2b$10$FMHC0e1lDG1.Z82c75BAV.3zLj4r.60eNY3Sp7Ii71wHZlO6PheY.",
+        "isAdmin": false,
+        "createdAt": {
+            "$date": "2025-10-17T12:16:03.935Z"
+        },
+        "updatedAt": {
+            "$date": "2025-10-17T12:16:03.935Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "68f275ffeb6ba8781c156469"
+        },
+        "username": "Anshika Mishra",
+        "dept": "Computer Applications",
+        "branch": "Master of Computer Applications",
+        "mobno": "9140027514",
+        "rollNumber": "205124016",
+        "email": "anshikamishra2313@gmail.com",
+        "password": "$2b$10$sBWghNysI/5XuYAJR6rY9u4Nef1tyDsMf0ULspq/ZYv32xP9nxy1O",
+        "isAdmin": false,
+        "createdAt": {
+            "$date": "2025-10-17T16:59:43.055Z"
+        },
+        "updatedAt": {
+            "$date": "2025-10-17T16:59:43.055Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "68f27ff4eb6ba8781c1564a2"
+        },
+        "username": "Harsh Pathekar",
+        "dept": "Computer Applications",
+        "branch": "",
+        "mobno": "8770334658",
+        "rollNumber": "205124064",
+        "email": "pathekarharsh@gmail.com",
+        "password": "$2b$10$fUnUmupXmd65RyZEUS69IOABKmwZMlWUyqGvMoEFOF0M.yXKFUTbW",
+        "isAdmin": false,
+        "createdAt": {
+            "$date": "2025-10-17T17:42:12.228Z"
+        },
+        "updatedAt": {
+            "$date": "2025-10-17T17:42:12.228Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "68f342eeeb6ba8781c1564bd"
+        },
+        "username": "Siddhant Mishra ",
+        "dept": "Computer Applications ",
+        "branch": "Computer Applications ",
+        "mobno": "6393513528",
+        "rollNumber": "205124092",
+        "email": "mishrasiddhant3251@gmail.com",
+        "password": "$2b$10$1E3FCp6v.3KHiqS.fgbSN.mPdKp3O7.HAc32hM6QQ/QcPPlQq/H66",
+        "isAdmin": false,
+        "createdAt": {
+            "$date": "2025-10-18T07:34:06.981Z"
+        },
+        "updatedAt": {
+            "$date": "2025-10-18T07:34:06.981Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "68f35d52eb6ba8781c1564d3"
+        },
+        "username": "Swasthika M",
+        "dept": "Metallurgical and Materials Engineering ",
+        "branch": "",
+        "mobno": "8925260780",
+        "rollNumber": "112123073",
+        "email": "lizzyben1410@gmail.com",
+        "password": "$2b$10$x7km3D4zhbedut/a/U0AS.R9iLMjxVWVfI5TlEdNr.SyrVwFkwVEK",
+        "isAdmin": false,
+        "createdAt": {
+            "$date": "2025-10-18T09:26:42.315Z"
+        },
+        "updatedAt": {
+            "$date": "2025-10-18T09:26:42.315Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "68f36078eb6ba8781c1564e1"
+        },
+        "username": "Rohit Kumar",
+        "dept": "Computer Applications",
+        "branch": "MCA",
+        "mobno": "7870365623",
+        "rollNumber": "205124081",
+        "email": "rrohitkumar2003@gmail.com",
+        "password": "$2b$10$ub32gHG00etQwPab3LxxGOfMZq.jY6kVgvB64x2SLQPCk7ci4Ji1G",
+        "isAdmin": false,
+        "createdAt": {
+            "$date": "2025-10-18T09:40:08.694Z"
+        },
+        "updatedAt": {
+            "$date": "2025-10-18T09:40:08.694Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "68f36425eb6ba8781c156501"
+        },
+        "username": "Meenakshi Sharma",
+        "dept": "CA",
+        "branch": "",
+        "mobno": "7206689463",
+        "rollNumber": "205124054",
+        "email": "ms3619696@gmail.com",
+        "password": "$2b$10$ZlrxRthZlx3o2pu4BQvLH.7Yct4FWaIs6.3wcV0u7jz4pqtdQ5PKW",
+        "isAdmin": false,
+        "createdAt": {
+            "$date": "2025-10-18T09:55:49.526Z"
+        },
+        "updatedAt": {
+            "$date": "2025-10-18T09:55:49.526Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "68f365a3eb6ba8781c15651b"
+        },
+        "username": "AASHIKA K",
+        "dept": "Electronics and communication",
+        "branch": "",
+        "mobno": "9489840173",
+        "rollNumber": "108124005",
+        "email": "aashikak2005@gmail.com",
+        "password": "$2b$10$M/77cT277/Rt.JqJh7NHDOIPjPwJn/a/hh3aD4HcNZiiSok4nt4UC",
+        "isAdmin": false,
+        "createdAt": {
+            "$date": "2025-10-18T10:02:11.165Z"
+        },
+        "updatedAt": {
+            "$date": "2025-10-18T10:02:11.165Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "68f365b7eb6ba8781c156520"
+        },
+        "username": "Surajit Das",
+        "dept": "Computer Applications",
+        "branch": "MCA",
+        "mobno": "7478384053",
+        "rollNumber": "205124097",
+        "email": "surajitjack2002@gmail.com",
+        "password": "$2b$10$JkAy8trzBoxidJubkt/O8OzDfjfcnHO34WheTbXE3YE2NhafKyBJu",
+        "isAdmin": false,
+        "createdAt": {
+            "$date": "2025-10-18T10:02:31.814Z"
+        },
+        "updatedAt": {
+            "$date": "2025-10-18T10:02:31.814Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "68f3780712342134cd4d9926"
+        },
+        "username": "Kumar Manglam",
+        "dept": "Computer Applications",
+        "branch": "",
+        "mobno": "8529726147",
+        "rollNumber": "205124047",
+        "email": "kr.manglam1010@gmail.com",
+        "password": "$2b$10$6nNP9dr1pfRuSfDptF3tSe.UeIlJMimhiqJC3jcGYNSoA1ifKj48y",
+        "isAdmin": false,
+        "createdAt": {
+            "$date": "2025-10-18T11:20:39.642Z"
+        },
+        "updatedAt": {
+            "$date": "2025-10-18T11:20:39.642Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "68f3785312342134cd4d992c"
+        },
+        "username": "CHIRAG SHARMA",
+        "dept": "ca",
+        "branch": "",
+        "mobno": "9711807668",
+        "rollNumber": "205124027",
+        "email": "chirag.cs102@gmail.com",
+        "password": "$2b$10$/jjxSAtxKLUNAarBoJsGy.JOD6XTCkTJK1T0vam48GxSN5YwPT3bG",
+        "isAdmin": false,
+        "createdAt": {
+            "$date": "2025-10-18T11:21:55.171Z"
+        },
+        "updatedAt": {
+            "$date": "2025-10-18T11:21:55.171Z"
+        },
+        "__v": 0
+    }
+]

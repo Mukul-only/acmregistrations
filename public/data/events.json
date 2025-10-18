@@ -1,0 +1,105 @@
+[
+  {
+    "id": "66817b2f3a4b5c6d7e8f9a01",
+    "title": "Algorithmia",
+    "image": "/assets/events/algorithma.webp",
+    "eventType": "technical",
+    "playerMode": "single player",
+    "subCategory": null,
+    "description": "Detailed description for Algorithma...",
+    "registrationCount": 0,
+    "totalParticipants": 0
+  },
+  {
+    "id": "66817b2f3a4b5c6d7e8f9a02",
+    "title": "TypEclipse",
+    "image": "/assets/events/type-racer.webp",
+    "eventType": "non-tech",
+    "playerMode": "single player",
+    "subCategory": null,
+    "description": "Detailed description for Type racer...",
+    "registrationCount": 0,
+    "totalParticipants": 0
+  },
+  {
+    "id": "66817b2f3a4b5c6d7e8f9a03",
+    "title": "Emoji charades",
+    "image": "/assets/events/emoji-charades.webp",
+    "eventType": "non-tech",
+    "playerMode": "team",
+    "teamsize": 2,
+    "subCategory": null,
+    "description": "Detailed description for Emoji charades...",
+    "registrationCount": 0,
+    "totalParticipants": 0
+  },
+  {
+    "id": "66817b2f3a4b5c6d7e8f9a05",
+    "title": "BackTrack",
+    "image": "/assets/events/reverse-engineering.webp",
+    "eventType": "technical",
+    "playerMode": "single player",
+    "subCategory": null,
+    "description": "Detailed description for Reverse engineering...",
+    "registrationCount": 0,
+    "totalParticipants": 0
+  },
+  {
+    "id": "66817b2f3a4b5c6d7e8f9a06",
+    "title": "Destinite",
+    "image": "/assets/events/destinite.webp",
+    "eventType": "non-tech",
+    "playerMode": "single player",
+    "subCategory": null,
+    "description": "Detailed description for Destinite...",
+    "register": "no",
+    "registrationCount": 0,
+    "totalParticipants": 0
+  },
+  {
+    "id": "66817b2f3a4b5c6d7e8f9a08",
+    "title": "Replicode",
+    "image": "/assets/events/replicode.webp",
+    "eventType": "technical",
+    "playerMode": "team",
+    "teamsize": 2,
+    "subCategory": "webdev",
+    "description": "Detailed description for Replicode...",
+    "registrationCount": 0,
+    "totalParticipants": 0
+  },
+  {
+    "id": "66817b2f3a4b5c6d7e8f9a09",
+    "title": "Stellar Quest",
+    "image": "/assets/events/cs-quiz.webp",
+    "eventType": "technical",
+    "playerMode": "single player",
+    "subCategory": "cs",
+    "description": "Detailed description for CS Quiz...",
+    "registrationCount": 0,
+    "totalParticipants": 0
+  },
+  {
+    "id": "66817b2f3a4b5c6d7e8f9a10",
+    "title": "Treasure hunt",
+    "image": "/assets/events/treasure-hunt.webp",
+    "eventType": "non-tech",
+    "playerMode": "team",
+    "teamsize": 3,
+    "subCategory": null,
+    "description": "Detailed description for Break the bug...",
+    "registrationCount": 0,
+    "totalParticipants": 0
+  },
+  {
+    "id": "66817b2f3a4b5c6d7e8f9a11",
+    "title": "Crypt of the Necrodancer",
+    "image": "/assets/events/crypt-necrodancer.webp",
+    "eventType": "non-tech",
+    "playerMode": "single player",
+    "subCategory": "gaming",
+    "description": "Detailed description for Crypt of the Necrodancer...",
+    "registrationCount": 0,
+    "totalParticipants": 0
+  }
+]
